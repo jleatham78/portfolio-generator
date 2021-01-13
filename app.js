@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const profileDataArgs = process.argv.slice(2, process.argv.length);
 
 const name = profileDataArgs[0];
@@ -13,3 +14,8 @@ console.log(generagePage());
 //         ;
 // };
 // }
+=======
+const generagePage = () => 'Name: Jane, Github: janehub';
+
+
+>>>>>>> d49d61701d100c12f13c4a6c8a5b938fbb701137
