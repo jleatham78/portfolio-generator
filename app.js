@@ -1,1 +1,3 @@
-console.log('Hello Node!');
+const generagePage = () => 'Name: Jane, Github: janehub';
+
+
